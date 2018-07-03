@@ -2,7 +2,7 @@
 object detection records
 
 ## one stage 
-  [yolov1](https://pjreddie.com/media/files/papers/yolo.pdf)
+  [yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf)
   
   [yolov2](http://cn.arxiv.org/pdf/1506.02640.pdf)
   
