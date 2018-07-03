@@ -2,21 +2,21 @@
 object detection records
 
 ## one stage 
-  [yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection
+  [Yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection
   
-  [yolov2](http://cn.arxiv.org/pdf/1612.08242.pdf) YOLO9000:Better, Faster, Stronger
+  [Yolov2](http://cn.arxiv.org/pdf/1612.08242.pdf) YOLO9000:Better, Faster, Stronger
   
-  [yolov3](http://cn.arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement
+  [Yolov3](http://cn.arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement
   
-  [ssd](http://cn.arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector
+  [SSD](http://cn.arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector
   
-  [dssd](http://cn.arxiv.org/pdf/1701.06659.pdf) DSSD : Deconvolutional Single Shot Detector
+  [DSSD](http://cn.arxiv.org/pdf/1701.06659.pdf) DSSD : Deconvolutional Single Shot Detector
   
-  [rfb-ssd](http://cn.arxiv.org/pdf/1711.07767.pdf) Receptive Field Block Net for Accurate and Fast Object Detection
+  [RFB-SSD](http://cn.arxiv.org/pdf/1711.07767.pdf) Receptive Field Block Net for Accurate and Fast Object Detection
   
-  [retinanet](http://cn.arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection 
+  [RetinaNet](http://cn.arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection 
   
-  [refinedet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection
+  [RefineDet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection
 
 ## two stage
   [RCNN](http://cn.arxiv.org/pdf/1311.2524.pdf) Rich feature hierarchies for accurate object detection and semantic segmentation
