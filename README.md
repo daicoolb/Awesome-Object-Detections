@@ -28,3 +28,5 @@ object detection records
   - [Mask RCNN](http://cn.arxiv.org/pdf/1703.06870.pdf) Mask RCNN [keras](https://github.com/matterport/Mask_RCNN) [caffe2](https://github.com/facebookresearch/Detectron) [tensorflow](https://github.com/CharlesShang/FastMaskRCNN)
   
   - [R-FCN](http://cn.arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks [caffe](https://github.com/YuwenXiong/py-R-FCN)
+  
+  - [Light Head RCNN](http://cn.arxiv.org/pdf/1711.07264.pdf) Light-Head R-CNN: In Defense of Two-Stage Object Detector [tensorflow](https://github.com/zengarden/light_head_rcnn) 
