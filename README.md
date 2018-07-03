@@ -1,7 +1,7 @@
-# awsome-object-dection
+# Awsome-object-dection
 object detection records
 
-## one stage 
+## One stage 
   - [Yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection
   
   - [Yolov2](http://cn.arxiv.org/pdf/1612.08242.pdf) YOLO9000:Better, Faster, Stronger
@@ -18,7 +18,7 @@ object detection records
   
   - [RefineDet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection
 
-## two stage
+## Two stage
   - [RCNN](http://cn.arxiv.org/pdf/1311.2524.pdf) Rich feature hierarchies for accurate object detection and semantic segmentation
 
   - [Fast RCNN](http://cn.arxiv.org/pdf/1504.08083.pdf) 
