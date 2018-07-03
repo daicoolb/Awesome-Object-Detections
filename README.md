@@ -1,6 +1,11 @@
 # Awesome-Object-Detection
 object detection records
 
+## BackBone
+  - [FPN](http://cn.arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection
+  - [DetNet](http://cn.arxiv.org/pdf/1804.06215.pdf) DetNet: A Backbone network for Object Detection
+  - [MegDet](http://cn.arxiv.org/pdf/1711.07240.pdf) MegDet: A Large Mini-Batch Object Detector
+
 ## One stage 
   - [Yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection [darknet](https://github.com/pjreddie/darknet) [caffe](https://github.com/xingwangsfu/caffe-yolo)
   
