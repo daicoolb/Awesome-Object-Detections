@@ -1,4 +1,4 @@
-# Awsome-object-dection
+# Awsome-Object-Detection
 object detection records
 
 ## One stage 
