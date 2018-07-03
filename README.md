@@ -1,4 +1,4 @@
-# Awsome-Object-Detection
+# Awesome-Object-Detection
 object detection records
 
 ## One stage 
