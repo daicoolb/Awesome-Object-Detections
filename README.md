@@ -3,7 +3,6 @@ object detection records
 
 ## one stage 
   [yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection
-  
   [yolov2](http://cn.arxiv.org/pdf/1506.02640.pdf) 
   
   [yolov3](http://cn.arxiv.org/pdf/1804.02767.pdf)
