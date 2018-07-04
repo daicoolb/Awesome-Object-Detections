@@ -3,6 +3,13 @@ object detection records
 
 ## API
   - [Tensorflow](https://github.com/tensorflow/models/tree/master/research/object_detection) Tensorflow API for object detection
+  
+## Image Augmentation
+  - [imgaug](https://github.com/aleju/imgaug) This python library helps you with augmenting images for your machine learning projects
+  - [Augmentor](https://github.com/mdbloice/Augmentor) Augmentor is an image augmentation library in Python for machine learning.
+
+## Image Deduplication
+  - [Hash](https://github.com/daicoolb/Awesome-Object-Detections/blob/master/sim_hash.cpp) Perception hash
  
 ## BackBone
   - [FPN](http://cn.arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection
