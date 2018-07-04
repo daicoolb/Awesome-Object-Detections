@@ -14,7 +14,7 @@ object detection records
 ## Image Deduplication
   - [Hash C++](https://github.com/daicoolb/Awesome-Object-Detections/blob/master/sim_hash.cpp) Perception hash
   - [Image-deduplication-tool Python](https://github.com/mk-fg/image-deduplication-tool) simple tool to detect (and get rid of) similar images using perceptual hashing
-  - [Imgdup](https://github.com/rif/imgdup)Visual similarity image finder and cleaner (image deduplication tool).
+  - [Imgdup](https://github.com/rif/imgdup) Visual similarity image finder and cleaner (image deduplication tool).
   
 ## BackBone
   - [FPN](http://cn.arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection
