@@ -7,10 +7,14 @@ object detection records
 ## Image Augmentation
   - [imgaug](https://github.com/aleju/imgaug) This python library helps you with augmenting images for your machine learning projects
   - [Augmentor](https://github.com/mdbloice/Augmentor) Augmentor is an image augmentation library in Python for machine learning.
+  - [Image Augmentor](https://github.com/codebox/image_augmentor) This is a simple data augmentation tool for image files, intended for use with machine learning data sets.
+  - [ImageAugmentation](https://github.com/vxy10/ImageAugmentation) Generating additional data for unbalanced classes by jittering the original image.
 
 ## Image Deduplication
-  - [Hash](https://github.com/daicoolb/Awesome-Object-Detections/blob/master/sim_hash.cpp) Perception hash
- 
+  - [Hash C++](https://github.com/daicoolb/Awesome-Object-Detections/blob/master/sim_hash.cpp) Perception hash
+  - [Image-deduplication-tool Python](https://github.com/mk-fg/image-deduplication-tool) simple tool to detect (and get rid of) similar images using perceptual hashing
+  - [imgdup](https://github.com/rif/imgdup)Visual similarity image finder and cleaner (image deduplication tool).
+  
 ## BackBone
   - [FPN](http://cn.arxiv.org/pdf/1612.03144.pdf) Feature Pyramid Networks for Object Detection
   - [DetNet](http://cn.arxiv.org/pdf/1804.06215.pdf) DetNet: A Backbone network for Object Detection
