@@ -25,7 +25,7 @@ object detection records
   - [Yolov1](http://cn.arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection [darknet](https://github.com/pjreddie/darknet) [caffe](https://github.com/xingwangsfu/caffe-yolo)
   - [Yolov2](http://cn.arxiv.org/pdf/1612.08242.pdf) YOLO9000:Better, Faster, Stronger [tensorflow](https://github.com/WojciechMormul/yolo2) [pytorch](https://github.com/longcw/yolo2-pytorch) [caffe](https://github.com/gklz1982/caffe-yolov2)
   - [Yolov3](http://cn.arxiv.org/pdf/1804.02767.pdf) YOLOv3: An Incremental Improvement [pytorch](https://github.com/ayooshkathuria/pytorch-yolo-v3) [keras](https://github.com/qqwweee/keras-yolo3)
-  - [SSD](http://cn.arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector [caffe](https://github.com/weiliu89/caffe/tree/ssd) [tensorflow] (https://github.com/balancap/SSD-Tensorflow)
+  - [SSD](http://cn.arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector [caffe](https://github.com/weiliu89/caffe/tree/ssd) [tensorflow](https://github.com/balancap/SSD-Tensorflow)
   - [DSSD](http://cn.arxiv.org/pdf/1701.06659.pdf) DSSD : Deconvolutional Single Shot Detector [caffe](https://github.com/chengyangfu/caffe/tree/dssd)
   - [RFB-SSD](http://cn.arxiv.org/pdf/1711.07767.pdf) Receptive Field Block Net for Accurate and Fast Object Detection [pytorch](https://github.com/ruinmessi/RFBNet)
   - [RetinaNet](http://cn.arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection [caffe](https://github.com/chuanqi305/FocalLoss) [tensorflow](https://github.com/CasiaFan/tensorflow_retinanet)
