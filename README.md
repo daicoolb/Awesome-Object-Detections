@@ -7,7 +7,7 @@ object detection records
 ## Image Augmentation
   - [imgaug](https://github.com/aleju/imgaug) This python library helps you with augmenting images for your machine learning projects
   - [Augmentor](https://github.com/mdbloice/Augmentor) Augmentor is an image augmentation library in Python for machine learning.
-  - [Image Augmentor](https://github.com/codebox/image_augmentor) This is a simple data augmentation tool for image files, intended for use with machine learning data sets.
+  - [Image Augmentor](https://github.com/codebox/image_augmentor) A simple data augmentation tool for image files, intended for use with machine learning data sets.
   - [ImageAugmentation](https://github.com/vxy10/ImageAugmentation) Generating additional data for unbalanced classes by jittering the original image.
 
 ## Image Deduplication
