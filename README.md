@@ -3,6 +3,7 @@ object detection records
 
 ## API
   - [Tensorflow](https://github.com/tensorflow/models/tree/master/research/object_detection) Tensorflow API for object detection
+  - [Soft-NMS](https://github.com/bharatsingh430/soft-nms) Soft-Nms that used to post-process object detection 
   
 ## Image Augmentation
   - [imgaug](https://github.com/aleju/imgaug) This python library helps you with augmenting images for your machine learning projects
