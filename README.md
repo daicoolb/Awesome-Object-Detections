@@ -44,4 +44,4 @@ object detection records
   - [R-FCN](http://cn.arxiv.org/pdf/1605.06409.pdf) R-FCN: Object Detection via Region-based Fully Convolutional Networks [caffe](https://github.com/YuwenXiong/py-R-FCN) [tensorflow](https://github.com/xdever/RFCN-tensorflow) [pytorch](https://github.com/PureDiors/pytorch_RFCN)
   - [Light Head RCNN](http://cn.arxiv.org/pdf/1711.07264.pdf) Light-Head R-CNN: In Defense of Two-Stage Object Detector [tensorflow](https://github.com/zengarden/light_head_rcnn) [pytorch](https://github.com/Sundrops/pytorch-faster-rcnn)
   - [Cascade RCNN](http://cn.arxiv.org/pdf/1712.00726.pdf) Cascade R-CNN: Delving into High Quality Object Detection [caffe](https://github.com/zhaoweicai/cascade-rcnn)
-  - [PANet](http://cn.arxiv.org/pdf/1803.01534.pdf) Path Aggregation Network for Instance Segmentation
+  - [PANet](http://cn.arxiv.org/pdf/1803.01534.pdf) Path Aggregation Network for Instance Segmentation [pytorch](https://github.com/ShuLiu1993/PANet)
