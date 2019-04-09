@@ -35,6 +35,7 @@ object detection records
   - [RefineDet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection [caffe](https://github.com/sfzhang15/RefineDet)
   - [CornerNet](http://cn.arxiv.org/pdf/1808.01244.pdf) CornerNet: Detecting Objects as Paired Keypoints
   - [FCOS](http://cn.arxiv.org/pdf/1904.01355.pdf) Fully Convolutional One-Stage Object Detection
+  - [ExtremeNet](http://cn.arxiv.org/pdf/1901.08043.pdf) Bottom-up Object Detection by Grouping Extreme and Center Points [pytorch](https://github.com/xingyizhou/ExtremeNet)
   
 ## Two stage
   - [RCNN](http://cn.arxiv.org/pdf/1311.2524.pdf) Rich feature hierarchies for accurate object detection and semantic segmentation [caffe](https://github.com/rbgirshick/rcnn)
