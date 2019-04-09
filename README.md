@@ -30,7 +30,7 @@ object detection records
   - [DSSD](http://cn.arxiv.org/pdf/1701.06659.pdf) DSSD : Deconvolutional Single Shot Detector [caffe](https://github.com/chengyangfu/caffe/tree/dssd)
   - [RFB-SSD](http://cn.arxiv.org/pdf/1711.07767.pdf) Receptive Field Block Net for Accurate and Fast Object Detection [pytorch](https://github.com/ruinmessi/RFBNet)
   - [DES](http://cn.arxiv.org/pdf/1712.00433.pdf) Single-Shot Object Detection with Enriched Semantics 
-  - [STDN](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1376.pdf) Scale-Transferrable Object Detection 
+  - [STDN](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1376.pdf) Scale-Transferrable Object Detection [pytorch](https://github.com/arvention/STDN)
   - [RetinaNet](http://cn.arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection [caffe](https://github.com/chuanqi305/FocalLoss) [tensorflow](https://github.com/CasiaFan/tensorflow_retinanet)
   - [RefineDet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection [caffe](https://github.com/sfzhang15/RefineDet)
   - [CornerNet](http://cn.arxiv.org/pdf/1808.01244.pdf) CornerNet: Detecting Objects as Paired Keypoints [tensorflow](https://github.com/makalo/CornerNet)
