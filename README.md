@@ -34,10 +34,11 @@ object detection records
   - [RetinaNet](http://cn.arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection [caffe](https://github.com/chuanqi305/FocalLoss) [tensorflow](https://github.com/CasiaFan/tensorflow_retinanet)
   - [RefineDet](http://cn.arxiv.org/pdf/1711.06897.pdf) Single-Shot Refinement Neural Network for Object Detection [caffe](https://github.com/sfzhang15/RefineDet)
   - [CornerNet](http://cn.arxiv.org/pdf/1808.01244.pdf) CornerNet: Detecting Objects as Paired Keypoints [tensorflow](https://github.com/makalo/CornerNet)
-  - [FCOS](http://cn.arxiv.org/pdf/1904.01355.pdf) Fully Convolutional One-Stage Object Detection
+  - [FCOS](http://cn.arxiv.org/pdf/1904.01355.pdf) Fully Convolutional One-Stage Object Detection [pytorch](https://github.com/tianzhi0549/FCOS)
   - [ExtremeNet](http://cn.arxiv.org/pdf/1901.08043.pdf) Bottom-up Object Detection by Grouping Extreme and Center Points [pytorch](https://github.com/xingyizhou/ExtremeNet)
   - [M2det](https://qijiezhao.github.io/imgs/m2det.pdf) M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network [pytorch](https://github.com/qijiezhao/M2Det)
-  - [CornerNet-Lite](https://arxiv.org/pdf/1904.08900.pdf)CornerNet-Lite: Efficient Keypoint Based Object Detection [pytorch](https://github.com/princeton-vl/CornerNet-Lite)
+  - [CornerNet-Lite](https://arxiv.org/pdf/1904.08900.pdf) CornerNet-Lite: Efficient Keypoint Based Object Detection [pytorch](https://github.com/princeton-vl/CornerNet-Lite)
+  - [Scratchdet](https://arxiv.org/abs/1810.08425) ScratchDet: Training Single-Shot Object Detectors From Scratch [pytorch](https://github.com/KimSoybean/ScratchDet)
   
 ## Two stage
   - [RCNN](http://cn.arxiv.org/pdf/1311.2524.pdf) Rich feature hierarchies for accurate object detection and semantic segmentation [caffe](https://github.com/rbgirshick/rcnn)
