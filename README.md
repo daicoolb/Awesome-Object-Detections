@@ -54,3 +54,4 @@ object detection records
   - [Cascade R-CNN](https://arxiv.org/abs/1906.09756) Cascade R-CNN：High Quality Object Detection and Instance Segmentation [pytorch](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
   - [KL-LOSS](https://arxiv.org/abs/1809.08545) Bounding Box Regression with Uncertainty for Accurate Object Detection [caffe2](https://github.com/yihui-he/KL-Loss)
   - [Libra-RCNN](https://arxiv.org/pdf/1904.02701.pdf) Libra R-CNN: Towards Balanced Learning for Object Detection [pytorch](https://github.com/OceanPang/Libra_R-CNN)
+  - [Grid-RCNN](https://arxiv.org/abs/1811.12030)Grid R-CNN [pytorch](https://github.com/STVIR/Grid-R-CNN)
