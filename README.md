@@ -49,3 +49,4 @@ object detection records
   - [PANet](http://cn.arxiv.org/pdf/1803.01534.pdf) Path Aggregation Network for Instance Segmentation [pytorch](https://github.com/ShuLiu1993/PANet)
   - [Mask Scoring R-CNN](http://cn.arxiv.org/pdf/1903.00241.pdf) Mask Scoring R-CNN [pytorch](https://github.com/zjhuang22/maskscoring_rcnn)
   - [TridentNet](https://arxiv.org/abs/1901.01892) TridentNet：Scale-Aware Trident Networks for Object Detection [mxnet](https://github.com/TuSimple/simpledet)
+  -[Cascade R-CNN](https://arxiv.org/abs/1906.09756) Cascade R-CNN：High Quality Object Detection and Instance Segmentation [pytorch](https://github.com/zhaoweicai/Detectron-Cascade-RCNN)
