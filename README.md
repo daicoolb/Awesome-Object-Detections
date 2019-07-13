@@ -36,7 +36,7 @@ object detection records
   - [CornerNet](http://cn.arxiv.org/pdf/1808.01244.pdf) CornerNet: Detecting Objects as Paired Keypoints [tensorflow](https://github.com/makalo/CornerNet)
   - [FCOS](http://cn.arxiv.org/pdf/1904.01355.pdf) Fully Convolutional One-Stage Object Detection
   - [ExtremeNet](http://cn.arxiv.org/pdf/1901.08043.pdf) Bottom-up Object Detection by Grouping Extreme and Center Points [pytorch](https://github.com/xingyizhou/ExtremeNet)
-   -[M2det](https://qijiezhao.github.io/imgs/m2det.pdf) M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network (https://github.com/qijiezhao/M2Det)
+   -[M2det](https://qijiezhao.github.io/imgs/m2det.pdf) M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network [pytorch](https://github.com/qijiezhao/M2Det)
   
 ## Two stage
   - [RCNN](http://cn.arxiv.org/pdf/1311.2524.pdf) Rich feature hierarchies for accurate object detection and semantic segmentation [caffe](https://github.com/rbgirshick/rcnn)
@@ -48,3 +48,4 @@ object detection records
   - [Cascade RCNN](http://cn.arxiv.org/pdf/1712.00726.pdf) Cascade R-CNN: Delving into High Quality Object Detection [caffe](https://github.com/zhaoweicai/cascade-rcnn)
   - [PANet](http://cn.arxiv.org/pdf/1803.01534.pdf) Path Aggregation Network for Instance Segmentation [pytorch](https://github.com/ShuLiu1993/PANet)
   - [Mask Scoring R-CNN](http://cn.arxiv.org/pdf/1903.00241.pdf) Mask Scoring R-CNN [pytorch](https://github.com/zjhuang22/maskscoring_rcnn)
+  - [TridentNet](https://arxiv.org/abs/1901.01892) TridentNet：Scale-Aware Trident Networks for Object Detection [mxnet](https://github.com/TuSimple/simpledet)
