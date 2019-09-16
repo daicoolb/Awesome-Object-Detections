@@ -57,6 +57,9 @@ object detection records
   - [Grid-RCNN](https://arxiv.org/abs/1811.12030) Grid R-CNN [pytorch](https://github.com/STVIR/Grid-R-CNN)
 
 ## Recent Papers
-  - [PrROI](https://arxiv.org/pdf/1807.11590.pdf) Acquisition of Localization confidence for accurate object detection
-  - [FreeAnchor](https://arxiv.org/pdf/1909.02466.pdf) FreeAnchor: Learning to Match Anchors for Visual
-Object Detection [pytorch](https://github.com/zhangxiaosong18/FreeAnchor)
+  - [PrROI](https://arxiv.org/pdf/1807.11590.pdf) Acquisition of Localization confidence for accurate object detection ECCV2018
+  - [FreeAnchor](https://arxiv.org/pdf/1909.02466.pdf) FreeAnchor: Learning to Match Anchors for Visual 
+Object Detection [pytorch](https://github.com/zhangxiaosong18/FreeAnchor) NIPS2019
+  - [CBNet](https://arxiv.org/pdf/1909.03625.pdf) CBNet: A Novel Composite Backbone Network Architecture for Object Detection
+[caffe2](https://github.com/PKUbahuangliuhe/CBNet) 
+  - [CornerNet-Lite](https://arxiv.org/pdf/1904.08900.pdf)CornerNet-Lite: Efficient Keypoint Based Object Detection [pytorch](https://github.com/princeton-vl/CornerNet-Lite)
