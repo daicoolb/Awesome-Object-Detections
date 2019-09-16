@@ -62,4 +62,4 @@ object detection records
 Object Detection [pytorch](https://github.com/zhangxiaosong18/FreeAnchor) NIPS2019
   - [CBNet](https://arxiv.org/pdf/1909.03625.pdf) CBNet: A Novel Composite Backbone Network Architecture for Object Detection
 [caffe2](https://github.com/PKUbahuangliuhe/CBNet) 
-  - [CornerNet-Lite](https://arxiv.org/pdf/1904.08900.pdf)CornerNet-Lite: Efficient Keypoint Based Object Detection [pytorch](https://github.com/princeton-vl/CornerNet-Lite)
+  - [CenterNet](https://arxiv.org/pdf/1904.08189.pdf)CenterNet: Keypoint Triplets for Object Detection [pytorch](https://github.com/Duankaiwen/CenterNet)
