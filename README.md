@@ -59,6 +59,7 @@ object detection records
   - [Grid-RCNN](https://arxiv.org/abs/1811.12030) Grid R-CNN [pytorch](https://github.com/STVIR/Grid-R-CNN)
   - [CBNet](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf) CBNet: A Novel Composite Backbone Network Architecture for Object Detection [pytorch](https://github.com/VDIGPKU/CBNet)
   - [TSD](https://arxiv.org/pdf/2003.07557.pdf) 1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation [pytorch](https://github.com/Sense-X/TSD)
+  - [DetectoRS](https://arxiv.org/pdf/2006.02334.pdf) DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution [pytorch](https://github.com/joe-siyuan-qiao/DetectoRS)
    
 ## Recent Papers
   - [PrROI](https://arxiv.org/pdf/1807.11590.pdf) Acquisition of Localization confidence for accurate object detection ECCV2018
