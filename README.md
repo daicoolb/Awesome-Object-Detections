@@ -57,6 +57,7 @@ object detection records
   - [KL-LOSS](https://arxiv.org/abs/1809.08545) Bounding Box Regression with Uncertainty for Accurate Object Detection [caffe2](https://github.com/yihui-he/KL-Loss)
   - [Libra-RCNN](https://arxiv.org/pdf/1904.02701.pdf) Libra R-CNN: Towards Balanced Learning for Object Detection [pytorch](https://github.com/OceanPang/Libra_R-CNN)
   - [Grid-RCNN](https://arxiv.org/abs/1811.12030) Grid R-CNN [pytorch](https://github.com/STVIR/Grid-R-CNN)
+  - [CBNet](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.1833.pdf) CBNet: A Novel Composite Backbone Network Architecture for Object Detection [pytorch](https://github.com/VDIGPKU/CBNet)
   - [TSD](https://arxiv.org/pdf/2003.07557.pdf) 1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation [pytorch](https://github.com/Sense-X/TSD)
    
 ## Recent Papers
