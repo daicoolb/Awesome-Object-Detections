@@ -57,7 +57,8 @@ object detection records
   - [KL-LOSS](https://arxiv.org/abs/1809.08545) Bounding Box Regression with Uncertainty for Accurate Object Detection [caffe2](https://github.com/yihui-he/KL-Loss)
   - [Libra-RCNN](https://arxiv.org/pdf/1904.02701.pdf) Libra R-CNN: Towards Balanced Learning for Object Detection [pytorch](https://github.com/OceanPang/Libra_R-CNN)
   - [Grid-RCNN](https://arxiv.org/abs/1811.12030) Grid R-CNN [pytorch](https://github.com/STVIR/Grid-R-CNN)
-
+  - [TSD](https://arxiv.org/pdf/2003.07557.pdf) 1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation [pytorch](https://github.com/Sense-X/TSD)
+   
 ## Recent Papers
   - [PrROI](https://arxiv.org/pdf/1807.11590.pdf) Acquisition of Localization confidence for accurate object detection ECCV2018
   - [FreeAnchor](https://arxiv.org/pdf/1909.02466.pdf) FreeAnchor: Learning to Match Anchors for Visual 
